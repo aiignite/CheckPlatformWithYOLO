@@ -1,0 +1,6 @@
+{
+  "name": "YoloCheck - YOLO Dataset Quality Inspection & Optimization Studio",
+  "description": "Comprehensive visual dataset validation, label checking, anomaly detection, statistical distribution analysis, and batch correction tool for YOLO format computer vision datasets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
